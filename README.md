@@ -38,8 +38,8 @@ Este projeto é uma excelente ferramenta de aprendizado e prática para quem est
 ### 🧾 Passos para rodar
 
 1. Clone ou baixe este repositório  
-2. Abra o arquivo `afd.py` no seu editor de código  
+2. Abra o arquivo `main.py` no seu editor de código  
 3. Execute no terminal:
 
 ```bash
-python afd.py
+python main.py
