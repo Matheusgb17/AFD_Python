@@ -32,7 +32,7 @@ Este projeto é uma excelente ferramenta de aprendizado e prática para quem est
 
 ### ✅ Requisitos
 
-- Python 3.x  
+- Python 3.13.3 
 - Bibliotecas: `xml.etree.ElementTree`, `xml.dom.minidom` (nativas do Python)
 
 ### 🧾 Passos para rodar
